@@ -31,3 +31,9 @@ body {
     text-wrap: balance;
   }
 }
+
+
+@font-face {
+  font-family: "burtons";
+  src: url('../../public/Burtons.otf');
+}
