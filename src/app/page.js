@@ -178,7 +178,7 @@ const projects = [
     <li class="mb-10 ms-4">
         <div class="absolute w-3 h-3 bg-black rounded-full mt-1.5 -start-1.5 border border-white dark:border-gray-900 dark:bg-gray-700"></div>
         <time class="mb-1 text-sm font-normal leading-none text-black-400 dark:text-pink-500">November 2020 - May 2024</time>
-        <h3 class="text-lg font-semibold text-pink-900 dark:text-white">B.Tech Computer Science and Engineering, IIT Bhilai</h3>
+        <h3 class="text-lg font-semibold text-pink-900">B.Tech Computer Science and Engineering, IIT Bhilai</h3>
         <p class="mb-1 text-base font-normal pink-gray-500 dark:pink-gray-400">CGPA 9.46/10</p>
         <p class="mb-1 text-base font-normal pink-gray-500 dark:pink-gray-400">Courses Taken -  Data Structures, Algorithms, ML, AI, NLP, DBMS, OS, Computer Network, Computer System Design</p>
         <p class="mb-4 text-base font-normal pink-gray-500 dark:pink-gray-400">Volunteer Positions: Coordinator - Quizzing club 2021-22, Core Member - Google Developer Student Club, Member - Literary
@@ -191,7 +191,7 @@ and Debate Society.</p>
     <li class="mb-10 ms-4">
         <div class="absolute w-3 h-3 bg-black rounded-full mt-1.5 -start-1.5 border border-white dark:border-gray-900 dark:bg-gray-700"></div>
         <time class="mb-1 text-sm font-normal leading-none text-black-400 dark:text-pink-500">May 2023 - July 2023</time>
-        <h3 class="text-lg font-semibold text-pink-900 dark:text-white">Summer Intern @ CDAC-Pune</h3>
+        <h3 class="text-lg font-semibold text-pink-900">Summer Intern @ CDAC-Pune</h3>
         {/* <p class="text-base font-normal text-pink-500 dark:text-pink-400">All of the pages and components are first designed in Figma and we keep a parity between the two versions even as we update the project.</p> */}
         <p class="mb-1 text-base font-normal pink-gray-500 dark:pink-gray-400">Used Road Vector data to identify and prioritize accident hotspots for PM Gram Sadak Yojana. </p>
         <p class="mb-4 text-base font-normal pink-gray-500 dark:pink-gray-400">Showcased Python proficiency by implementing research papers Reproduced 81% accuracy in road curve classification.</p>
@@ -200,7 +200,7 @@ and Debate Society.</p>
     <li class="ms-4">
         <div class="absolute w-3 h-3 bg-black rounded-full mt-1.5 -start-1.5 border border-white dark:border-gray-900 dark:bg-gray-700"></div>
         <time class="mb-1 text-sm font-normal leading-none text-black-400 dark:text-pink-500">May 2024 - Present</time>
-        <h3 class="text-lg font-semibold text-pink-900 dark:text-white">Data Engineer @ Skan</h3>
+        <h3 class="text-lg font-semibold text-pink-900">Data Engineer @ Skan</h3>
         {/* <p class="text-base font-normal text-pink-500 dark:text-pink-400"></p> */}
     </li>
 </ol>
