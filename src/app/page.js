@@ -80,7 +80,7 @@ const projects = [
       <h2 className="text-5xl text-pink-800 font-medium">Shashwat Johri</h2>
       <h3 className="text-2xl py-2">WebDev, ML, Algorithms, HPC</h3>
     
-      <p className="text-lg py-5 text-gray-800 px-30">I am a 2024 CS Graduate from IIT Bhilai. I like CS fundamentals, web development, ML and more! I enjoy exploring and applying my knowledge as projects in various domains. I also enjoy practise my problem solving skills, I have represented my college at ICPC Regionals and performed well at various Hackathons. If you're excited about life and tech we'll surely vibe well :)</p>
+      <p className="text-lg py-5 text-gray-800 px-30">I am a 2024 CS Graduate from IIT Bhilai. I like CS fundamentals, web development, ML and more! I enjoy exploring and applying my knowledge as projects in various domains. I also enjoy practising my problem solving skills, I have represented my college at ICPC Regionals and performed well at various Hackathons. If you're excited about life and tech we'll surely vibe well :)</p>
 
     </div>
     <div className="text-5xl flex justify-center gap-16">
