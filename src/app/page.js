@@ -114,7 +114,7 @@ const projects = [
       {/* <div className="flex justify-center w-200"> */}
       {projects.map(project =>(
 
-        <div className="flex flex-col shadow-lg rounded-md w-80 m-10 justify-between p-5">
+        <div className="flex flex-col shadow-lg rounded-md w-80 m-5 justify-between p-2">
         <div className="flex items-center justify-center">
           <h3 className="text-pink-950 p-5 text-xl font-burtons">{project.name}</h3>
           { project.github !== "" &&
