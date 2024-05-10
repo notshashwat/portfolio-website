@@ -197,13 +197,13 @@ and Debate Society.</p>
         <p class="mb-4 text-base font-normal pink-gray-500 dark:pink-gray-400">Showcased Python proficiency by implementing research papers Reproduced 81% accuracy in road curve classification.</p>
         
     </li>
-    <li class="ms-4">
+    {/* <li class="ms-4">
         <div class="absolute w-3 h-3 bg-black rounded-full mt-1.5 -start-1.5 border border-white dark:border-gray-900 dark:bg-gray-700"></div>
         <time class="mb-1 text-sm font-normal leading-none text-black-400 dark:text-pink-500">May 2024 - Present</time>
         <h3 class="text-lg font-semibold text-pink-900">Data Engineer @ Skan</h3>
-        {/* <p class="text-base font-normal text-pink-500 dark:text-pink-400"></p> */}
-    </li>
-</ol>
+        <p class="text-base font-normal text-pink-500 dark:text-pink-400"></p>
+    </li>  */}
+ </ol>
 
 
       </div>
