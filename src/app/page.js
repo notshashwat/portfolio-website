@@ -9,7 +9,7 @@ import {AiFillLinkedin, AiFillGithub, AiFillRightCircle} from 'react-icons/ai'
 const projects = [
   {'id' : 1,
     'name' : "CAMPDEL",
-    'description' : "Designed and Implemented a microservice based application solution made for food delivery in IIT Bhilai Campus.",
+    'description' : "Designed and Implemented a microservice based scalable application for food delivery in IIT Bhilai Campus.",
     'techs' : ['Node.js','Metaflow','MongoDB','Socket.io','Flask'],
     'concepts' : ['Microservices','MLops','Authentication'],
     'github' : "https://github.com/RASP-food-delivery",
@@ -17,7 +17,7 @@ const projects = [
   },
   {'id' : 2,
     'name' : "Downloadify",
-    'description' : "Built an app to fetch all of users’ Spotify songs and allow them to choose and download multiple songs with a Spotify inspired UI.",
+    'description' : "Built an app to fetch Spotify songs of user and allow them to choose and download multiple songs with a Spotify inspired UI.",
     'techs' : ['React',' Node.js'],
     'concepts' : [],
     'github' : "https://github.com/notshashwat/Downloadify-React",
@@ -25,7 +25,7 @@ const projects = [
   },
   {'id' : 3,
     'name' : "Banking Chatbot",
-    'description' : "Built voice chatbot for banking application that recognizes natural language and responds using LLM. Functionality for fetching bank details or transferring money.",
+    'description' : "Built voice chatbot for banking application that recognizes natural language and responds using LLM.",
     'techs' : ['Flask',' Jquery','Python','vosk','Llama'],
     'concepts' : ['Intent Classification','Function Calling LLM'],
     'github' : "https://github.com/notshashwat/aiml-lab-2",
@@ -33,7 +33,7 @@ const projects = [
   },
   {'id' : 4,
     'name' : "Mult Drone Delivery Using RL",
-    'description' : "Modelled drones as agent that pick and pass parcels to other drones for delivery. Made multi-agent environment and trained PPO algorithm.",
+    'description' : "Modelled drones as agents that pick and pass parcels to other drones for delivery. Made multi-agent environment and trained PPO algorithm.",
     'techs' : ['Gymnasium',' stable-baseline3','Python'],
     'concepts' : ['MARL','PPO','RL'],
     'github' : "",
@@ -202,7 +202,7 @@ and Debate Society.</p>
         <time class="mb-1 text-sm font-normal leading-none text-black-400 dark:text-pink-500">June 2024 - present</time>
         <h3 class="text-lg font-semibold text-pink-900">Backend Engineer @ Pi42 - Crypto Futures Exchange</h3>
         {/* <p class="text-base font-normal text-pink-500 dark:text-pink-400">All of the pages and components are first designed in Figma and we keep a parity between the two versions even as we update the project.</p> */}
-        <p class="mb-1 text-base font-normal pink-gray-500 dark:pink-gray-400">Spearheaded the end-to-end development of the ”Cross Margin Mode” feature. Utilizing object-oriented programming
+        <p class="mb-1 text-base font-normal pink-gray-500 dark:pink-gray-400">Frontlined the project for the end-to-end development of the ”Cross Margin Mode” feature. Utilizing object-oriented programming
         best practices to ensure a robust and scalable solution in NestJS. </p>
         <p class="mb-4 text-base font-normal pink-gray-500 dark:pink-gray-400">Implemented caching and pagination within the core APIs, significantly enhancing website performance by optimizing
         the retrieval and improving overall user experience.</p>
